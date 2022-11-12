@@ -2,9 +2,6 @@
 server:
   port: 8080
 
-logging:
-  level:
-    web: DEBUG
-    org:
-      springframework:
-        web: DEBUG
+spring:
+  application:
+    name: User Authentication
