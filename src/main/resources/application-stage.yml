@@ -1,0 +1,6 @@
+api:
+  unsecuredURL: /v2/api-docs, /swagger-ui/**, /swagger-resources/**
+
+logging:
+  level:
+    org: INFO
